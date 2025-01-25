@@ -18,7 +18,7 @@ NLP üzerinde literatür üzerindeki bazı anahtar kelimeler
 Doğal dilden üretilen metinler veya ses(konuşma) verileri belirli adımlardan geçirilerek işlendikten sonra bilgisayar sistemlerinin anlayacağı formata geldikten sonra işlenip analiz edilmektedir.
 Doğal dil işlenmesi sırasında metnin gereksiz ifadelerden ve noktalamalardan ayrıştırılması, morfolojik analiz, söz dizimsel analiz ve anlam bilimsel analiz adımları sırasıyla yapılmaktadır. Bu sürece dilin matematik analizi de denmektedir.
 <!--  IMAGE -->
-! [DDL] (https://www.hasanbaskin.com/wp-content/uploads/2021/01/1.png)
+![DDL](https://www.hasanbaskin.com/wp-content/uploads/2021/01/1.png)
 
  ## Doğal Dil Ön İşleme Süreci
  Bilgisayar ortamında aldığımız metin veya ses verileri direkt olarak doğal dil işleme sürecine sokulmaz. Çünkü aldığımız verinin her zaman düzenli , anlam karışıklığı olmayan , doğru noktalama işaretleri ile ayrılmış bir şekilde bulamıyoruz. Bu doğrultuda aldığımız verilerin bir ön işleme adımlarından geçerek girdi olarak aldığımız metnin en doğru şekilde işlenmesine yardımcı olacaktır.
